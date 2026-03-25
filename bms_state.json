@@ -40,6 +40,22 @@
       "price": "59.43",
       "status": "3"
     },
+    "PVSR|22571|20260329|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "02:30 PM",
+      "date": "20260329",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVSR|22571|20260329|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "02:30 PM",
+      "date": "20260329",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
     "PVSR|22532|20260329|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "02:40 PM",
@@ -63,6 +79,86 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "3"
+    },
+    "PVHR|34123|20260329|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:10 AM",
+      "date": "20260329",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVHR|34123|20260329|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:10 AM",
+      "date": "20260329",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVHR|34140|20260329|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "01:45 PM",
+      "date": "20260329",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVHR|34140|20260329|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "01:45 PM",
+      "date": "20260329",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PBRM|19414|20260329|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "10:00 AM",
+      "date": "20260329",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PBRM|19414|20260329|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "10:00 AM",
+      "date": "20260329",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PBRM|19391|20260329|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "02:15 PM",
+      "date": "20260329",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PBRM|19391|20260329|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "02:15 PM",
+      "date": "20260329",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PSKL|19003|20260329|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "02:25 PM",
+      "date": "20260329",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PSKL|19003|20260329|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "02:25 PM",
+      "date": "20260329",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "0"
     }
   },
   "dates": {
