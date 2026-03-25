@@ -1,5 +1,70 @@
 {
-  "shows": {},
+  "shows": {
+    "PVSR|22531|20260329|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:00 AM",
+      "date": "20260329",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "0"
+    },
+    "PVSR|22531|20260329|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:00 AM",
+      "date": "20260329",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|22531|20260329|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:00 AM",
+      "date": "20260329",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVSR|22543|20260329|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:15 AM",
+      "date": "20260329",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVSR|22543|20260329|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:15 AM",
+      "date": "20260329",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVSR|22532|20260329|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "02:40 PM",
+      "date": "20260329",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "0"
+    },
+    "PVSR|22532|20260329|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "02:40 PM",
+      "date": "20260329",
+      "cat": "PREMIUM",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|22532|20260329|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "02:40 PM",
+      "date": "20260329",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    }
+  },
   "dates": {
     "20260325": "AVAILABLE",
     "20260326": "AVAILABLE",
