@@ -46,7 +46,7 @@
       "date": "20260329",
       "cat": "ELITE",
       "price": "202.49",
-      "status": "3"
+      "status": "2"
     },
     "PVSR|22571|20260329|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -112,6 +112,38 @@
       "price": "59.43",
       "status": "3"
     },
+    "PCAN|35731|20260329|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "10:10 AM",
+      "date": "20260329",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PCAN|35731|20260329|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "10:10 AM",
+      "date": "20260329",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PCAN|35732|20260329|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "02:55 PM",
+      "date": "20260329",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PCAN|35732|20260329|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "02:55 PM",
+      "date": "20260329",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
     "PBRM|19414|20260329|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
       "time": "10:00 AM",
@@ -159,6 +191,54 @@
       "cat": "CLASSIC",
       "price": "59.43",
       "status": "0"
+    },
+    "PABC|17357|20260329|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "09:35 AM",
+      "date": "20260329",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PABC|17357|20260329|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "09:35 AM",
+      "date": "20260329",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PABC|17374|20260329|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "02:30 PM",
+      "date": "20260329",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PABC|17374|20260329|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "02:30 PM",
+      "date": "20260329",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PGRA|18342|20260329|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "09:30 AM",
+      "date": "20260329",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PGRA|18342|20260329|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "09:30 AM",
+      "date": "20260329",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
     }
   },
   "dates": {
