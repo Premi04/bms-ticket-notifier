@@ -1,5 +1,53 @@
 {
   "shows": {
+    "PVPZ|36042|20260802|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:05 AM",
+      "date": "20260802",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "1"
+    },
+    "PVPZ|36042|20260802|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:05 AM",
+      "date": "20260802",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PVPZ|36135|20260802|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:10 AM",
+      "date": "20260802",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "0"
+    },
+    "PVPZ|36135|20260802|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:10 AM",
+      "date": "20260802",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PVPZ|36043|20260802|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "12:10 PM",
+      "date": "20260802",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "0"
+    },
+    "PVPZ|36043|20260802|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "12:10 PM",
+      "date": "20260802",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
     "INPR|63946|20260802|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
       "time": "09:15 AM",
@@ -43,54 +91,6 @@
     "INPR|63948|20260802|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
       "time": "03:50 PM",
-      "date": "20260802",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PVPZ|36042|20260802|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:05 AM",
-      "date": "20260802",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PVPZ|36042|20260802|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:05 AM",
-      "date": "20260802",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PVPZ|36135|20260802|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:10 AM",
-      "date": "20260802",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PVPZ|36135|20260802|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:10 AM",
-      "date": "20260802",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PVPZ|36043|20260802|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:10 PM",
-      "date": "20260802",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PVPZ|36043|20260802|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:10 PM",
       "date": "20260802",
       "cat": "BUDGET",
       "price": "61.74",
